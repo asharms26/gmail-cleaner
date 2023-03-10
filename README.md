@@ -11,6 +11,7 @@ A simple service written in Golang that cleans out your Gmail Inbox.
 Request Payload
 
 token: Google OAuth Token
+
 keywords: Keywords in the "From" field of the email in question
 
 `{
